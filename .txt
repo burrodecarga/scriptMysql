@@ -1,0 +1,88 @@
+mandar mensaje en la piel de Dios.
+Alegría y responsabilidad.
+Eduardo Galeano.
+
+Que lindo era sentarse en la mesa de un bar
+Y ver a Buenos Aires, o Medellín o Bogotá pasar y pasar...
+Pasa un cartero en bicicleta
+Con telegramas color violeta
+Un patrullero de la policia
+Que busca un chorro hace quince días
+Pasa el lechero con cara de nada
+Vendiendo el leche contaminada
+Y un escribano serio y cerrado
+Tirándole besos a un abogado
+Pasa un político con paso corto
+Añorando el congreso con aire absorto
+Pasa un vampiro buscando una mina
+Pero lo violan pasando la esquina
+Pasa el verdugo con su picana
+Y al tiempo que pasa me mira con ganas
+Y pasan dos tuercas comiendo picadas
+Se cruza una vieja y la hacen pomada
+Pasan los taxis y los colectivos
+Las secretarias del Ejecutivo
+Un jubilado tangodeante
+Jorge Luis Borges, la niña y su amante
+Los siete locos, los contrabandistas
+Los buenos hombres, los masoquistas
+Las prostitutas con sus pianistas
+Las curanderas y sus analistas
+Pasa una niña de mil apellidos
+Vendiendo celosa los desposeídos
+Pasa una banda de criminales
+En sus hermosas motos policiales
+Pasa un Mercedes con chapa extranjera
+Llevando el amante de un tipo cualquiera
+Y pasa un Mercedes con chapa oficial
+Llevando el amante de un general
+Pasan oscuros los empleados
+Clavándole el codo al tipo de al lado
+Pasan oscuros los tipos de al lado
+Clavándole el codo a los desocupados
+Pasan corriendo los estudiantes
+Porque los persiguen los vigilantes
+Y pasan corriendo los vigilantes
+Porque los persiguen los estudiantes
+Pasa un obrero en alpargatas
+Con veinte pesos que es toda su plata
+Pasa el Ministro de Economía
+Le dice: Mi hijito no hay más plusvalía!
+Pasan los locos, pasan los cuerdos
+Si no les das corte te dan con un fierro
+Y una señora con traje escotado
+Un cura la sigue y cae en pecado
+Pasan los presos con aire de muerte
+Pasan llorando su triste suerte
+Paso yo mismo y me veo sentado
+Mirando la gente que pasa a mi lado
+Pasa la guardia del Presidente
+Los sables al aire todos dementes
+Y pasa la historia de nuestra nación
+Siglo tras siglo sin solución
+Pasan los gatos, pasan los perros
+Pasan los vivos, pasan los muertos
+Pasan corriendo, pasan zumbando
+Pasa el silencio y pasa gritando
+Pasa el país y el continente
+Pasa mi vida estupidamente
+Mientras estoy en la mesa de un bar
+Viendo a Buenos Aires, Medellín o Bogotá pasar y pasar.
+
+down
+<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 13l-7 7-7-7m14-8l-7 7-7-7" />
+</svg>
+
+up
+<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 11l7-7 7 7M5 19l7-7 7 7" />
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+  <path d="M6 10a2 2 0 11-4 0 2 2 0 014 0zM12 10a2 2 0 11-4 0 2 2 0 014 0zM16 12a2 2 0 100-4 2 2 0 000 4z" />
+</svg>

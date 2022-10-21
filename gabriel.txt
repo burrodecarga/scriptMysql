@@ -1,0 +1,8 @@
+Al aplicar, pedir datos con google, linkedin o email
+
+Al hacer login con google va directo a los pasos, al poner el correo
+se le pediran los datos (ver upwork)
+
+Luego sigue un pequeño panel con los pasos, estos pasos seria descargar las planillas i -94 o la W-2 segun sea el caso, y dentro del mismo panel o modal o lo que sea, que se pueda subir el archivo PDF de la planilla y el CV.
+
+Y al aplicar vaya a una pagina nueva, que muestre los videos (son 2 videos de seguridad) recomendados 

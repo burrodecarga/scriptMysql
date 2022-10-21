@@ -1,0 +1,8 @@
+$resultado->first() // Si es null es porque está vacío
+$resultado->isEmpty() // true o false
+$resultado->count() // La cantidad de elementos
+count($resultado) // La cantidad de elementos
+
+Un evento mini-coqui pero sin armas por parte de uno de los aliados.
+Una persona con privilegios otorgados, usados y disfrutados, piensa que puede tratar de igual a igual a quienes le otorgaron los privilegios.
+Muchos chavistas chillan como cochinos cuando le hacen lo que hacían
